@@ -1,12 +1,14 @@
 import openai
 import os
+import exp_manager
 from dotenv import load_dotenv
+
 load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
 class QuizSession:
-    def __init__(self, exp_manager, question_manager):
-        self.exp_manager = exp_manager
+    def __init__(self, exp_module, question_manager):
+        self.exp_module = exp_module  # modul exp_manager.py
         self.question_manager = question_manager
         self.current_question = None
         self.current_level = 1
@@ -39,26 +41,28 @@ Berikan penjelasan singkat (1-2 paragraf) kenapa jawaban pengguna salah dan kena
 
     def answer_question(self, user_answer):
         correct_answer = self.current_question['answer']
+        difficulty = self.current_question.get('difficulty', 'sedang')
         is_correct = (user_answer.strip().lower() == correct_answer.strip().lower())
 
         level_before = self.current_level
-        exp_change = 0
 
         if is_correct:
             self.current_streak += 1
-            exp_change = self.exp_manager.calculate_exp_gain(level=self.current_level, streak=self.current_streak)
+            exp_change = self.exp_module.get_total_exp(
+                difficulty=difficulty,
+                streak=(self.current_streak >= 3)
+            )
             explanation = "Jawaban Anda benar!"
         else:
             self.current_streak = 0
-            exp_change = self.exp_manager.calculate_exp_penalty(level=self.current_level)
+            exp_change = self.exp_module.get_wrong_answer_penalty(self.current_level)
             explanation = self.get_ai_explanation(self.current_question, user_answer)
 
         self.current_exp += exp_change
         self.current_exp = max(self.current_exp, 0)
 
-        new_level = self.exp_manager.get_level_from_exp(self.current_exp)
-        if new_level != self.current_level:
-            self.current_level = new_level
+        new_level = self.exp_module.check_level_up(self.current_exp, self.current_level)
+        self.current_level = new_level
 
         self.last_result = {
             "is_correct": is_correct,
