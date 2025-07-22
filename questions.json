@@ -1,0 +1,3026 @@
+[
+  {
+    "id": 89,
+    "level": 1,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "10 × 1 = ? (versi-1)",
+    "options": [
+      "10",
+      "11",
+      "100",
+      "1"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 76,
+    "level": 1,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "2 + 3 = ? (versi-4)",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 127,
+    "level": 1,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "Hasil dari 5 × (2 + 3) = ? (versi-7)",
+    "options": [
+      "25",
+      "20",
+      "15",
+      "30"
+    ],
+    "answer": "25"
+  },
+  {
+    "id": 163,
+    "level": 1,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Air membeku pada suhu? (versi-3)",
+    "options": [
+      "0°C",
+      "10°C",
+      "100°C",
+      "50°C"
+    ],
+    "answer": "0°C"
+  },
+  {
+    "id": 24,
+    "level": 1,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Gunung tertinggi di Indonesia? (versi-8)",
+    "options": [
+      "Puncak Jaya",
+      "Semeru",
+      "Rinjani",
+      "Kerinci"
+    ],
+    "answer": "Puncak Jaya"
+  },
+  {
+    "id": 169,
+    "level": 1,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Organ terbesar tubuh manusia? (versi-1)",
+    "options": [
+      "Kulit",
+      "Jantung",
+      "Paru-paru",
+      "Lambung"
+    ],
+    "answer": "Kulit"
+  },
+  {
+    "id": 153,
+    "level": 1,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Planet tempat manusia tinggal? (versi-1)",
+    "options": [
+      "Bumi",
+      "Mars",
+      "Venus",
+      "Merkurius"
+    ],
+    "answer": "Bumi"
+  },
+  {
+    "id": 175,
+    "level": 1,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Organ terbesar tubuh manusia? (versi-7)",
+    "options": [
+      "Kulit",
+      "Jantung",
+      "Paru-paru",
+      "Lambung"
+    ],
+    "answer": "Kulit"
+  },
+  {
+    "id": 69,
+    "level": 1,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Gunung tertinggi di Afrika? (versi-5)",
+    "options": [
+      "Kilimanjaro",
+      "Kenya",
+      "Atlas",
+      "Drakensberg"
+    ],
+    "answer": "Kilimanjaro"
+  },
+  {
+    "id": 140,
+    "level": 1,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "7² - 6² = ? (versi-4)",
+    "options": [
+      "13",
+      "49",
+      "1",
+      "85"
+    ],
+    "answer": "13"
+  },
+  {
+    "id": 148,
+    "level": 1,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Organ pernapasan manusia? (versi-4)",
+    "options": [
+      "Paru-paru",
+      "Hati",
+      "Jantung",
+      "Ginjal"
+    ],
+    "answer": "Paru-paru"
+  },
+  {
+    "id": 17,
+    "level": 1,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Gunung tertinggi di Indonesia? (versi-1)",
+    "options": [
+      "Puncak Jaya",
+      "Semeru",
+      "Rinjani",
+      "Kerinci"
+    ],
+    "answer": "Puncak Jaya"
+  },
+  {
+    "id": 155,
+    "level": 1,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Planet tempat manusia tinggal? (versi-3)",
+    "options": [
+      "Bumi",
+      "Mars",
+      "Venus",
+      "Merkurius"
+    ],
+    "answer": "Bumi"
+  },
+  {
+    "id": 77,
+    "level": 1,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "2 + 3 = ? (versi-5)",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 160,
+    "level": 1,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Planet tempat manusia tinggal? (versi-8)",
+    "options": [
+      "Bumi",
+      "Mars",
+      "Venus",
+      "Merkurius"
+    ],
+    "answer": "Bumi"
+  },
+  {
+    "id": 194,
+    "level": 1,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Simbol kimia emas? (versi-2)",
+    "options": [
+      "Au",
+      "Ag",
+      "Fe",
+      "Cu"
+    ],
+    "answer": "Au"
+  },
+  {
+    "id": 18,
+    "level": 1,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Gunung tertinggi di Indonesia? (versi-2)",
+    "options": [
+      "Puncak Jaya",
+      "Semeru",
+      "Rinjani",
+      "Kerinci"
+    ],
+    "answer": "Puncak Jaya"
+  },
+  {
+    "id": 19,
+    "level": 1,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Gunung tertinggi di Indonesia? (versi-3)",
+    "options": [
+      "Puncak Jaya",
+      "Semeru",
+      "Rinjani",
+      "Kerinci"
+    ],
+    "answer": "Puncak Jaya"
+  },
+  {
+    "id": 49,
+    "level": 1,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Ibukota Kazakhstan? (versi-1)",
+    "options": [
+      "Astana",
+      "Almaty",
+      "Tashkent",
+      "Bishkek"
+    ],
+    "answer": "Astana"
+  },
+  {
+    "id": 189,
+    "level": 1,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Simbol kimia air? (versi-5)",
+    "options": [
+      "H2O",
+      "O2",
+      "CO2",
+      "HO"
+    ],
+    "answer": "H2O"
+  },
+  {
+    "id": 146,
+    "level": 1,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Organ pernapasan manusia? (versi-2)",
+    "options": [
+      "Paru-paru",
+      "Hati",
+      "Jantung",
+      "Ginjal"
+    ],
+    "answer": "Paru-paru"
+  },
+  {
+    "id": 50,
+    "level": 1,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Ibukota Kazakhstan? (versi-2)",
+    "options": [
+      "Astana",
+      "Almaty",
+      "Tashkent",
+      "Bishkek"
+    ],
+    "answer": "Astana"
+  },
+  {
+    "id": 111,
+    "level": 1,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "Hasil dari 3² = ? (versi-7)",
+    "options": [
+      "6",
+      "9",
+      "12",
+      "18"
+    ],
+    "answer": "9"
+  },
+  {
+    "id": 38,
+    "level": 1,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Sungai terpanjang di dunia? (versi-6)",
+    "options": [
+      "Nil",
+      "Amazon",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "answer": "Nil"
+  },
+  {
+    "id": 94,
+    "level": 1,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "10 × 1 = ? (versi-6)",
+    "options": [
+      "10",
+      "11",
+      "100",
+      "1"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 109,
+    "level": 1,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "Hasil dari 3² = ? (versi-5)",
+    "options": [
+      "6",
+      "9",
+      "12",
+      "18"
+    ],
+    "answer": "9"
+  },
+  {
+    "id": 64,
+    "level": 1,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Negara terkecil di dunia? (versi-8)",
+    "options": [
+      "Vatikan",
+      "Monako",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "answer": "Vatikan"
+  },
+  {
+    "id": 74,
+    "level": 1,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "2 + 3 = ? (versi-2)",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 99,
+    "level": 1,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "12 ÷ 4 = ? (versi-3)",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 37,
+    "level": 1,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Sungai terpanjang di dunia? (versi-5)",
+    "options": [
+      "Nil",
+      "Amazon",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "answer": "Nil"
+  },
+  {
+    "id": 119,
+    "level": 2,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "Akar kuadrat dari 64? (versi-7)",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 208,
+    "level": 2,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Teori terkenal Einstein? (versi-8)",
+    "options": [
+      "Relativitas",
+      "Kuantum",
+      "Gravitasi",
+      "Evolusi"
+    ],
+    "answer": "Relativitas"
+  },
+  {
+    "id": 72,
+    "level": 2,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Gunung tertinggi di Afrika? (versi-8)",
+    "options": [
+      "Kilimanjaro",
+      "Kenya",
+      "Atlas",
+      "Drakensberg"
+    ],
+    "answer": "Kilimanjaro"
+  },
+  {
+    "id": 55,
+    "level": 2,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Ibukota Kazakhstan? (versi-7)",
+    "options": [
+      "Astana",
+      "Almaty",
+      "Tashkent",
+      "Bishkek"
+    ],
+    "answer": "Astana"
+  },
+  {
+    "id": 51,
+    "level": 2,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Ibukota Kazakhstan? (versi-3)",
+    "options": [
+      "Astana",
+      "Almaty",
+      "Tashkent",
+      "Bishkek"
+    ],
+    "answer": "Astana"
+  },
+  {
+    "id": 212,
+    "level": 2,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Penemu vaksin rabies? (versi-4)",
+    "options": [
+      "Pasteur",
+      "Newton",
+      "Tesla",
+      "Curie"
+    ],
+    "answer": "Pasteur"
+  },
+  {
+    "id": 174,
+    "level": 2,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Organ terbesar tubuh manusia? (versi-6)",
+    "options": [
+      "Kulit",
+      "Jantung",
+      "Paru-paru",
+      "Lambung"
+    ],
+    "answer": "Kulit"
+  },
+  {
+    "id": 202,
+    "level": 2,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Teori terkenal Einstein? (versi-2)",
+    "options": [
+      "Relativitas",
+      "Kuantum",
+      "Gravitasi",
+      "Evolusi"
+    ],
+    "answer": "Relativitas"
+  },
+  {
+    "id": 30,
+    "level": 2,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Ibukota Australia? (versi-6)",
+    "options": [
+      "Canberra",
+      "Sydney",
+      "Melbourne",
+      "Perth"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "id": 188,
+    "level": 2,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Simbol kimia air? (versi-4)",
+    "options": [
+      "H2O",
+      "O2",
+      "CO2",
+      "HO"
+    ],
+    "answer": "H2O"
+  },
+  {
+    "id": 177,
+    "level": 2,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Zat yang dibutuhkan tumbuhan untuk fotosintesis? (versi-1)",
+    "options": [
+      "Cahaya",
+      "Air",
+      "Karbon dioksida",
+      "Semua benar"
+    ],
+    "answer": "Semua benar"
+  },
+  {
+    "id": 102,
+    "level": 2,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "12 ÷ 4 = ? (versi-6)",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 48,
+    "level": 2,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Benua terkecil? (versi-8)",
+    "options": [
+      "Australia",
+      "Eropa",
+      "Antartika",
+      "Amerika Selatan"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 71,
+    "level": 2,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Gunung tertinggi di Afrika? (versi-7)",
+    "options": [
+      "Kilimanjaro",
+      "Kenya",
+      "Atlas",
+      "Drakensberg"
+    ],
+    "answer": "Kilimanjaro"
+  },
+  {
+    "id": 179,
+    "level": 2,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Zat yang dibutuhkan tumbuhan untuk fotosintesis? (versi-3)",
+    "options": [
+      "Cahaya",
+      "Air",
+      "Karbon dioksida",
+      "Semua benar"
+    ],
+    "answer": "Semua benar"
+  },
+  {
+    "id": 79,
+    "level": 2,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "2 + 3 = ? (versi-7)",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 7,
+    "level": 2,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Ibukota Indonesia? (versi-7)",
+    "options": [
+      "Jakarta",
+      "Surabaya",
+      "Bandung",
+      "Medan"
+    ],
+    "answer": "Jakarta"
+  },
+  {
+    "id": 15,
+    "level": 2,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Pulau terbesar di Indonesia? (versi-7)",
+    "options": [
+      "Kalimantan",
+      "Jawa",
+      "Sumatera",
+      "Sulawesi"
+    ],
+    "answer": "Kalimantan"
+  },
+  {
+    "id": 96,
+    "level": 2,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "10 × 1 = ? (versi-8)",
+    "options": [
+      "10",
+      "11",
+      "100",
+      "1"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 138,
+    "level": 2,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "7² - 6² = ? (versi-2)",
+    "options": [
+      "13",
+      "49",
+      "1",
+      "85"
+    ],
+    "answer": "13"
+  },
+  {
+    "id": 56,
+    "level": 2,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Ibukota Kazakhstan? (versi-8)",
+    "options": [
+      "Astana",
+      "Almaty",
+      "Tashkent",
+      "Bishkek"
+    ],
+    "answer": "Astana"
+  },
+  {
+    "id": 117,
+    "level": 2,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "Akar kuadrat dari 64? (versi-5)",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 124,
+    "level": 2,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "Hasil dari 5 × (2 + 3) = ? (versi-4)",
+    "options": [
+      "25",
+      "20",
+      "15",
+      "30"
+    ],
+    "answer": "25"
+  },
+  {
+    "id": 166,
+    "level": 2,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Air membeku pada suhu? (versi-6)",
+    "options": [
+      "0°C",
+      "10°C",
+      "100°C",
+      "50°C"
+    ],
+    "answer": "0°C"
+  },
+  {
+    "id": 144,
+    "level": 2,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "7² - 6² = ? (versi-8)",
+    "options": [
+      "13",
+      "49",
+      "1",
+      "85"
+    ],
+    "answer": "13"
+  },
+  {
+    "id": 182,
+    "level": 2,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Zat yang dibutuhkan tumbuhan untuk fotosintesis? (versi-6)",
+    "options": [
+      "Cahaya",
+      "Air",
+      "Karbon dioksida",
+      "Semua benar"
+    ],
+    "answer": "Semua benar"
+  },
+  {
+    "id": 215,
+    "level": 2,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Penemu vaksin rabies? (versi-7)",
+    "options": [
+      "Pasteur",
+      "Newton",
+      "Tesla",
+      "Curie"
+    ],
+    "answer": "Pasteur"
+  },
+  {
+    "id": 92,
+    "level": 2,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "10 × 1 = ? (versi-4)",
+    "options": [
+      "10",
+      "11",
+      "100",
+      "1"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 171,
+    "level": 2,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Organ terbesar tubuh manusia? (versi-3)",
+    "options": [
+      "Kulit",
+      "Jantung",
+      "Paru-paru",
+      "Lambung"
+    ],
+    "answer": "Kulit"
+  },
+  {
+    "id": 23,
+    "level": 2,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Gunung tertinggi di Indonesia? (versi-7)",
+    "options": [
+      "Puncak Jaya",
+      "Semeru",
+      "Rinjani",
+      "Kerinci"
+    ],
+    "answer": "Puncak Jaya"
+  },
+  {
+    "id": 11,
+    "level": 3,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Pulau terbesar di Indonesia? (versi-3)",
+    "options": [
+      "Kalimantan",
+      "Jawa",
+      "Sumatera",
+      "Sulawesi"
+    ],
+    "answer": "Kalimantan"
+  },
+  {
+    "id": 135,
+    "level": 3,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "Nilai dari 2³ = ? (versi-7)",
+    "options": [
+      "8",
+      "6",
+      "9",
+      "4"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 58,
+    "level": 3,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Negara terkecil di dunia? (versi-2)",
+    "options": [
+      "Vatikan",
+      "Monako",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "answer": "Vatikan"
+  },
+  {
+    "id": 130,
+    "level": 3,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "Nilai dari 2³ = ? (versi-2)",
+    "options": [
+      "8",
+      "6",
+      "9",
+      "4"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 5,
+    "level": 3,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Ibukota Indonesia? (versi-5)",
+    "options": [
+      "Jakarta",
+      "Surabaya",
+      "Bandung",
+      "Medan"
+    ],
+    "answer": "Jakarta"
+  },
+  {
+    "id": 165,
+    "level": 3,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Air membeku pada suhu? (versi-5)",
+    "options": [
+      "0°C",
+      "10°C",
+      "100°C",
+      "50°C"
+    ],
+    "answer": "0°C"
+  },
+  {
+    "id": 187,
+    "level": 3,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Simbol kimia air? (versi-3)",
+    "options": [
+      "H2O",
+      "O2",
+      "CO2",
+      "HO"
+    ],
+    "answer": "H2O"
+  },
+  {
+    "id": 120,
+    "level": 3,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "Akar kuadrat dari 64? (versi-8)",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 43,
+    "level": 3,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Benua terkecil? (versi-3)",
+    "options": [
+      "Australia",
+      "Eropa",
+      "Antartika",
+      "Amerika Selatan"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 108,
+    "level": 3,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "Hasil dari 3² = ? (versi-4)",
+    "options": [
+      "6",
+      "9",
+      "12",
+      "18"
+    ],
+    "answer": "9"
+  },
+  {
+    "id": 193,
+    "level": 3,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Simbol kimia emas? (versi-1)",
+    "options": [
+      "Au",
+      "Ag",
+      "Fe",
+      "Cu"
+    ],
+    "answer": "Au"
+  },
+  {
+    "id": 35,
+    "level": 3,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Sungai terpanjang di dunia? (versi-3)",
+    "options": [
+      "Nil",
+      "Amazon",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "answer": "Nil"
+  },
+  {
+    "id": 157,
+    "level": 3,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Planet tempat manusia tinggal? (versi-5)",
+    "options": [
+      "Bumi",
+      "Mars",
+      "Venus",
+      "Merkurius"
+    ],
+    "answer": "Bumi"
+  },
+  {
+    "id": 185,
+    "level": 3,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Simbol kimia air? (versi-1)",
+    "options": [
+      "H2O",
+      "O2",
+      "CO2",
+      "HO"
+    ],
+    "answer": "H2O"
+  },
+  {
+    "id": 122,
+    "level": 3,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "Hasil dari 5 × (2 + 3) = ? (versi-2)",
+    "options": [
+      "25",
+      "20",
+      "15",
+      "30"
+    ],
+    "answer": "25"
+  },
+  {
+    "id": 31,
+    "level": 3,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Ibukota Australia? (versi-7)",
+    "options": [
+      "Canberra",
+      "Sydney",
+      "Melbourne",
+      "Perth"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "id": 6,
+    "level": 3,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Ibukota Indonesia? (versi-6)",
+    "options": [
+      "Jakarta",
+      "Surabaya",
+      "Bandung",
+      "Medan"
+    ],
+    "answer": "Jakarta"
+  },
+  {
+    "id": 173,
+    "level": 3,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Organ terbesar tubuh manusia? (versi-5)",
+    "options": [
+      "Kulit",
+      "Jantung",
+      "Paru-paru",
+      "Lambung"
+    ],
+    "answer": "Kulit"
+  },
+  {
+    "id": 200,
+    "level": 3,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Simbol kimia emas? (versi-8)",
+    "options": [
+      "Au",
+      "Ag",
+      "Fe",
+      "Cu"
+    ],
+    "answer": "Au"
+  },
+  {
+    "id": 203,
+    "level": 3,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Teori terkenal Einstein? (versi-3)",
+    "options": [
+      "Relativitas",
+      "Kuantum",
+      "Gravitasi",
+      "Evolusi"
+    ],
+    "answer": "Relativitas"
+  },
+  {
+    "id": 207,
+    "level": 3,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Teori terkenal Einstein? (versi-7)",
+    "options": [
+      "Relativitas",
+      "Kuantum",
+      "Gravitasi",
+      "Evolusi"
+    ],
+    "answer": "Relativitas"
+  },
+  {
+    "id": 115,
+    "level": 3,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "Akar kuadrat dari 64? (versi-3)",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 141,
+    "level": 3,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "7² - 6² = ? (versi-5)",
+    "options": [
+      "13",
+      "49",
+      "1",
+      "85"
+    ],
+    "answer": "13"
+  },
+  {
+    "id": 176,
+    "level": 3,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Organ terbesar tubuh manusia? (versi-8)",
+    "options": [
+      "Kulit",
+      "Jantung",
+      "Paru-paru",
+      "Lambung"
+    ],
+    "answer": "Kulit"
+  },
+  {
+    "id": 88,
+    "level": 3,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "7 - 4 = ? (versi-8)",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 75,
+    "level": 3,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "2 + 3 = ? (versi-3)",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 67,
+    "level": 3,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Gunung tertinggi di Afrika? (versi-3)",
+    "options": [
+      "Kilimanjaro",
+      "Kenya",
+      "Atlas",
+      "Drakensberg"
+    ],
+    "answer": "Kilimanjaro"
+  },
+  {
+    "id": 216,
+    "level": 3,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Penemu vaksin rabies? (versi-8)",
+    "options": [
+      "Pasteur",
+      "Newton",
+      "Tesla",
+      "Curie"
+    ],
+    "answer": "Pasteur"
+  },
+  {
+    "id": 101,
+    "level": 3,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "12 ÷ 4 = ? (versi-5)",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 149,
+    "level": 3,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Organ pernapasan manusia? (versi-5)",
+    "options": [
+      "Paru-paru",
+      "Hati",
+      "Jantung",
+      "Ginjal"
+    ],
+    "answer": "Paru-paru"
+  },
+  {
+    "id": 150,
+    "level": 4,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Organ pernapasan manusia? (versi-6)",
+    "options": [
+      "Paru-paru",
+      "Hati",
+      "Jantung",
+      "Ginjal"
+    ],
+    "answer": "Paru-paru"
+  },
+  {
+    "id": 80,
+    "level": 4,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "2 + 3 = ? (versi-8)",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 180,
+    "level": 4,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Zat yang dibutuhkan tumbuhan untuk fotosintesis? (versi-4)",
+    "options": [
+      "Cahaya",
+      "Air",
+      "Karbon dioksida",
+      "Semua benar"
+    ],
+    "answer": "Semua benar"
+  },
+  {
+    "id": 10,
+    "level": 4,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Pulau terbesar di Indonesia? (versi-2)",
+    "options": [
+      "Kalimantan",
+      "Jawa",
+      "Sumatera",
+      "Sulawesi"
+    ],
+    "answer": "Kalimantan"
+  },
+  {
+    "id": 201,
+    "level": 4,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Teori terkenal Einstein? (versi-1)",
+    "options": [
+      "Relativitas",
+      "Kuantum",
+      "Gravitasi",
+      "Evolusi"
+    ],
+    "answer": "Relativitas"
+  },
+  {
+    "id": 198,
+    "level": 4,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Simbol kimia emas? (versi-6)",
+    "options": [
+      "Au",
+      "Ag",
+      "Fe",
+      "Cu"
+    ],
+    "answer": "Au"
+  },
+  {
+    "id": 154,
+    "level": 4,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Planet tempat manusia tinggal? (versi-2)",
+    "options": [
+      "Bumi",
+      "Mars",
+      "Venus",
+      "Merkurius"
+    ],
+    "answer": "Bumi"
+  },
+  {
+    "id": 32,
+    "level": 4,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Ibukota Australia? (versi-8)",
+    "options": [
+      "Canberra",
+      "Sydney",
+      "Melbourne",
+      "Perth"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "id": 205,
+    "level": 4,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Teori terkenal Einstein? (versi-5)",
+    "options": [
+      "Relativitas",
+      "Kuantum",
+      "Gravitasi",
+      "Evolusi"
+    ],
+    "answer": "Relativitas"
+  },
+  {
+    "id": 44,
+    "level": 4,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Benua terkecil? (versi-4)",
+    "options": [
+      "Australia",
+      "Eropa",
+      "Antartika",
+      "Amerika Selatan"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 210,
+    "level": 4,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Penemu vaksin rabies? (versi-2)",
+    "options": [
+      "Pasteur",
+      "Newton",
+      "Tesla",
+      "Curie"
+    ],
+    "answer": "Pasteur"
+  },
+  {
+    "id": 199,
+    "level": 4,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Simbol kimia emas? (versi-7)",
+    "options": [
+      "Au",
+      "Ag",
+      "Fe",
+      "Cu"
+    ],
+    "answer": "Au"
+  },
+  {
+    "id": 156,
+    "level": 4,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Planet tempat manusia tinggal? (versi-4)",
+    "options": [
+      "Bumi",
+      "Mars",
+      "Venus",
+      "Merkurius"
+    ],
+    "answer": "Bumi"
+  },
+  {
+    "id": 196,
+    "level": 4,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Simbol kimia emas? (versi-4)",
+    "options": [
+      "Au",
+      "Ag",
+      "Fe",
+      "Cu"
+    ],
+    "answer": "Au"
+  },
+  {
+    "id": 162,
+    "level": 4,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Air membeku pada suhu? (versi-2)",
+    "options": [
+      "0°C",
+      "10°C",
+      "100°C",
+      "50°C"
+    ],
+    "answer": "0°C"
+  },
+  {
+    "id": 68,
+    "level": 4,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Gunung tertinggi di Afrika? (versi-4)",
+    "options": [
+      "Kilimanjaro",
+      "Kenya",
+      "Atlas",
+      "Drakensberg"
+    ],
+    "answer": "Kilimanjaro"
+  },
+  {
+    "id": 84,
+    "level": 4,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "7 - 4 = ? (versi-4)",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 206,
+    "level": 4,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Teori terkenal Einstein? (versi-6)",
+    "options": [
+      "Relativitas",
+      "Kuantum",
+      "Gravitasi",
+      "Evolusi"
+    ],
+    "answer": "Relativitas"
+  },
+  {
+    "id": 87,
+    "level": 4,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "7 - 4 = ? (versi-7)",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 33,
+    "level": 4,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Sungai terpanjang di dunia? (versi-1)",
+    "options": [
+      "Nil",
+      "Amazon",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "answer": "Nil"
+  },
+  {
+    "id": 147,
+    "level": 4,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Organ pernapasan manusia? (versi-3)",
+    "options": [
+      "Paru-paru",
+      "Hati",
+      "Jantung",
+      "Ginjal"
+    ],
+    "answer": "Paru-paru"
+  },
+  {
+    "id": 73,
+    "level": 4,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "2 + 3 = ? (versi-1)",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 9,
+    "level": 4,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Pulau terbesar di Indonesia? (versi-1)",
+    "options": [
+      "Kalimantan",
+      "Jawa",
+      "Sumatera",
+      "Sulawesi"
+    ],
+    "answer": "Kalimantan"
+  },
+  {
+    "id": 90,
+    "level": 4,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "10 × 1 = ? (versi-2)",
+    "options": [
+      "10",
+      "11",
+      "100",
+      "1"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 60,
+    "level": 4,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Negara terkecil di dunia? (versi-4)",
+    "options": [
+      "Vatikan",
+      "Monako",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "answer": "Vatikan"
+  },
+  {
+    "id": 22,
+    "level": 4,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Gunung tertinggi di Indonesia? (versi-6)",
+    "options": [
+      "Puncak Jaya",
+      "Semeru",
+      "Rinjani",
+      "Kerinci"
+    ],
+    "answer": "Puncak Jaya"
+  },
+  {
+    "id": 167,
+    "level": 4,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Air membeku pada suhu? (versi-7)",
+    "options": [
+      "0°C",
+      "10°C",
+      "100°C",
+      "50°C"
+    ],
+    "answer": "0°C"
+  },
+  {
+    "id": 62,
+    "level": 4,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Negara terkecil di dunia? (versi-6)",
+    "options": [
+      "Vatikan",
+      "Monako",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "answer": "Vatikan"
+  },
+  {
+    "id": 93,
+    "level": 4,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "10 × 1 = ? (versi-5)",
+    "options": [
+      "10",
+      "11",
+      "100",
+      "1"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 132,
+    "level": 4,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "Nilai dari 2³ = ? (versi-4)",
+    "options": [
+      "8",
+      "6",
+      "9",
+      "4"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 159,
+    "level": 5,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Planet tempat manusia tinggal? (versi-7)",
+    "options": [
+      "Bumi",
+      "Mars",
+      "Venus",
+      "Merkurius"
+    ],
+    "answer": "Bumi"
+  },
+  {
+    "id": 34,
+    "level": 5,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Sungai terpanjang di dunia? (versi-2)",
+    "options": [
+      "Nil",
+      "Amazon",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "answer": "Nil"
+  },
+  {
+    "id": 3,
+    "level": 5,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Ibukota Indonesia? (versi-3)",
+    "options": [
+      "Jakarta",
+      "Surabaya",
+      "Bandung",
+      "Medan"
+    ],
+    "answer": "Jakarta"
+  },
+  {
+    "id": 81,
+    "level": 5,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "7 - 4 = ? (versi-1)",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 178,
+    "level": 5,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Zat yang dibutuhkan tumbuhan untuk fotosintesis? (versi-2)",
+    "options": [
+      "Cahaya",
+      "Air",
+      "Karbon dioksida",
+      "Semua benar"
+    ],
+    "answer": "Semua benar"
+  },
+  {
+    "id": 105,
+    "level": 5,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "Hasil dari 3² = ? (versi-1)",
+    "options": [
+      "6",
+      "9",
+      "12",
+      "18"
+    ],
+    "answer": "9"
+  },
+  {
+    "id": 12,
+    "level": 5,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Pulau terbesar di Indonesia? (versi-4)",
+    "options": [
+      "Kalimantan",
+      "Jawa",
+      "Sumatera",
+      "Sulawesi"
+    ],
+    "answer": "Kalimantan"
+  },
+  {
+    "id": 2,
+    "level": 5,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Ibukota Indonesia? (versi-2)",
+    "options": [
+      "Jakarta",
+      "Surabaya",
+      "Bandung",
+      "Medan"
+    ],
+    "answer": "Jakarta"
+  },
+  {
+    "id": 125,
+    "level": 5,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "Hasil dari 5 × (2 + 3) = ? (versi-5)",
+    "options": [
+      "25",
+      "20",
+      "15",
+      "30"
+    ],
+    "answer": "25"
+  },
+  {
+    "id": 47,
+    "level": 5,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Benua terkecil? (versi-7)",
+    "options": [
+      "Australia",
+      "Eropa",
+      "Antartika",
+      "Amerika Selatan"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 42,
+    "level": 5,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Benua terkecil? (versi-2)",
+    "options": [
+      "Australia",
+      "Eropa",
+      "Antartika",
+      "Amerika Selatan"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 27,
+    "level": 5,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Ibukota Australia? (versi-3)",
+    "options": [
+      "Canberra",
+      "Sydney",
+      "Melbourne",
+      "Perth"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "id": 95,
+    "level": 5,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "10 × 1 = ? (versi-7)",
+    "options": [
+      "10",
+      "11",
+      "100",
+      "1"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 136,
+    "level": 5,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "Nilai dari 2³ = ? (versi-8)",
+    "options": [
+      "8",
+      "6",
+      "9",
+      "4"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 107,
+    "level": 5,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "Hasil dari 3² = ? (versi-3)",
+    "options": [
+      "6",
+      "9",
+      "12",
+      "18"
+    ],
+    "answer": "9"
+  },
+  {
+    "id": 118,
+    "level": 5,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "Akar kuadrat dari 64? (versi-6)",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 151,
+    "level": 5,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Organ pernapasan manusia? (versi-7)",
+    "options": [
+      "Paru-paru",
+      "Hati",
+      "Jantung",
+      "Ginjal"
+    ],
+    "answer": "Paru-paru"
+  },
+  {
+    "id": 137,
+    "level": 5,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "7² - 6² = ? (versi-1)",
+    "options": [
+      "13",
+      "49",
+      "1",
+      "85"
+    ],
+    "answer": "13"
+  },
+  {
+    "id": 181,
+    "level": 5,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Zat yang dibutuhkan tumbuhan untuk fotosintesis? (versi-5)",
+    "options": [
+      "Cahaya",
+      "Air",
+      "Karbon dioksida",
+      "Semua benar"
+    ],
+    "answer": "Semua benar"
+  },
+  {
+    "id": 190,
+    "level": 5,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Simbol kimia air? (versi-6)",
+    "options": [
+      "H2O",
+      "O2",
+      "CO2",
+      "HO"
+    ],
+    "answer": "H2O"
+  },
+  {
+    "id": 104,
+    "level": 5,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "12 ÷ 4 = ? (versi-8)",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 113,
+    "level": 5,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "Akar kuadrat dari 64? (versi-1)",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 213,
+    "level": 5,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Penemu vaksin rabies? (versi-5)",
+    "options": [
+      "Pasteur",
+      "Newton",
+      "Tesla",
+      "Curie"
+    ],
+    "answer": "Pasteur"
+  },
+  {
+    "id": 85,
+    "level": 5,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "7 - 4 = ? (versi-5)",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 52,
+    "level": 5,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Ibukota Kazakhstan? (versi-4)",
+    "options": [
+      "Astana",
+      "Almaty",
+      "Tashkent",
+      "Bishkek"
+    ],
+    "answer": "Astana"
+  },
+  {
+    "id": 57,
+    "level": 5,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Negara terkecil di dunia? (versi-1)",
+    "options": [
+      "Vatikan",
+      "Monako",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "answer": "Vatikan"
+  },
+  {
+    "id": 131,
+    "level": 5,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "Nilai dari 2³ = ? (versi-3)",
+    "options": [
+      "8",
+      "6",
+      "9",
+      "4"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 29,
+    "level": 5,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Ibukota Australia? (versi-5)",
+    "options": [
+      "Canberra",
+      "Sydney",
+      "Melbourne",
+      "Perth"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "id": 142,
+    "level": 5,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "7² - 6² = ? (versi-6)",
+    "options": [
+      "13",
+      "49",
+      "1",
+      "85"
+    ],
+    "answer": "13"
+  },
+  {
+    "id": 59,
+    "level": 5,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Negara terkecil di dunia? (versi-3)",
+    "options": [
+      "Vatikan",
+      "Monako",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "answer": "Vatikan"
+  },
+  {
+    "id": 186,
+    "level": 6,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Simbol kimia air? (versi-2)",
+    "options": [
+      "H2O",
+      "O2",
+      "CO2",
+      "HO"
+    ],
+    "answer": "H2O"
+  },
+  {
+    "id": 97,
+    "level": 6,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "12 ÷ 4 = ? (versi-1)",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 54,
+    "level": 6,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Ibukota Kazakhstan? (versi-6)",
+    "options": [
+      "Astana",
+      "Almaty",
+      "Tashkent",
+      "Bishkek"
+    ],
+    "answer": "Astana"
+  },
+  {
+    "id": 183,
+    "level": 6,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Zat yang dibutuhkan tumbuhan untuk fotosintesis? (versi-7)",
+    "options": [
+      "Cahaya",
+      "Air",
+      "Karbon dioksida",
+      "Semua benar"
+    ],
+    "answer": "Semua benar"
+  },
+  {
+    "id": 103,
+    "level": 6,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "12 ÷ 4 = ? (versi-7)",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 158,
+    "level": 6,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Planet tempat manusia tinggal? (versi-6)",
+    "options": [
+      "Bumi",
+      "Mars",
+      "Venus",
+      "Merkurius"
+    ],
+    "answer": "Bumi"
+  },
+  {
+    "id": 123,
+    "level": 6,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "Hasil dari 5 × (2 + 3) = ? (versi-3)",
+    "options": [
+      "25",
+      "20",
+      "15",
+      "30"
+    ],
+    "answer": "25"
+  },
+  {
+    "id": 21,
+    "level": 6,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Gunung tertinggi di Indonesia? (versi-5)",
+    "options": [
+      "Puncak Jaya",
+      "Semeru",
+      "Rinjani",
+      "Kerinci"
+    ],
+    "answer": "Puncak Jaya"
+  },
+  {
+    "id": 14,
+    "level": 6,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Pulau terbesar di Indonesia? (versi-6)",
+    "options": [
+      "Kalimantan",
+      "Jawa",
+      "Sumatera",
+      "Sulawesi"
+    ],
+    "answer": "Kalimantan"
+  },
+  {
+    "id": 106,
+    "level": 6,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "Hasil dari 3² = ? (versi-2)",
+    "options": [
+      "6",
+      "9",
+      "12",
+      "18"
+    ],
+    "answer": "9"
+  },
+  {
+    "id": 28,
+    "level": 6,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Ibukota Australia? (versi-4)",
+    "options": [
+      "Canberra",
+      "Sydney",
+      "Melbourne",
+      "Perth"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "id": 116,
+    "level": 6,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "Akar kuadrat dari 64? (versi-4)",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 152,
+    "level": 6,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Organ pernapasan manusia? (versi-8)",
+    "options": [
+      "Paru-paru",
+      "Hati",
+      "Jantung",
+      "Ginjal"
+    ],
+    "answer": "Paru-paru"
+  },
+  {
+    "id": 41,
+    "level": 6,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Benua terkecil? (versi-1)",
+    "options": [
+      "Australia",
+      "Eropa",
+      "Antartika",
+      "Amerika Selatan"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 133,
+    "level": 6,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "Nilai dari 2³ = ? (versi-5)",
+    "options": [
+      "8",
+      "6",
+      "9",
+      "4"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 83,
+    "level": 6,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "7 - 4 = ? (versi-3)",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 65,
+    "level": 6,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Gunung tertinggi di Afrika? (versi-1)",
+    "options": [
+      "Kilimanjaro",
+      "Kenya",
+      "Atlas",
+      "Drakensberg"
+    ],
+    "answer": "Kilimanjaro"
+  },
+  {
+    "id": 112,
+    "level": 6,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "Hasil dari 3² = ? (versi-8)",
+    "options": [
+      "6",
+      "9",
+      "12",
+      "18"
+    ],
+    "answer": "9"
+  },
+  {
+    "id": 134,
+    "level": 6,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "Nilai dari 2³ = ? (versi-6)",
+    "options": [
+      "8",
+      "6",
+      "9",
+      "4"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 197,
+    "level": 6,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Simbol kimia emas? (versi-5)",
+    "options": [
+      "Au",
+      "Ag",
+      "Fe",
+      "Cu"
+    ],
+    "answer": "Au"
+  },
+  {
+    "id": 25,
+    "level": 6,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Ibukota Australia? (versi-1)",
+    "options": [
+      "Canberra",
+      "Sydney",
+      "Melbourne",
+      "Perth"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "id": 16,
+    "level": 6,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Pulau terbesar di Indonesia? (versi-8)",
+    "options": [
+      "Kalimantan",
+      "Jawa",
+      "Sumatera",
+      "Sulawesi"
+    ],
+    "answer": "Kalimantan"
+  },
+  {
+    "id": 91,
+    "level": 6,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "10 × 1 = ? (versi-3)",
+    "options": [
+      "10",
+      "11",
+      "100",
+      "1"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 39,
+    "level": 6,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Sungai terpanjang di dunia? (versi-7)",
+    "options": [
+      "Nil",
+      "Amazon",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "answer": "Nil"
+  },
+  {
+    "id": 36,
+    "level": 6,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Sungai terpanjang di dunia? (versi-4)",
+    "options": [
+      "Nil",
+      "Amazon",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "answer": "Nil"
+  },
+  {
+    "id": 4,
+    "level": 6,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Ibukota Indonesia? (versi-4)",
+    "options": [
+      "Jakarta",
+      "Surabaya",
+      "Bandung",
+      "Medan"
+    ],
+    "answer": "Jakarta"
+  },
+  {
+    "id": 161,
+    "level": 6,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Air membeku pada suhu? (versi-1)",
+    "options": [
+      "0°C",
+      "10°C",
+      "100°C",
+      "50°C"
+    ],
+    "answer": "0°C"
+  },
+  {
+    "id": 126,
+    "level": 6,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "Hasil dari 5 × (2 + 3) = ? (versi-6)",
+    "options": [
+      "25",
+      "20",
+      "15",
+      "30"
+    ],
+    "answer": "25"
+  },
+  {
+    "id": 100,
+    "level": 6,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "12 ÷ 4 = ? (versi-4)",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 98,
+    "level": 6,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "12 ÷ 4 = ? (versi-2)",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 66,
+    "level": 7,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Gunung tertinggi di Afrika? (versi-2)",
+    "options": [
+      "Kilimanjaro",
+      "Kenya",
+      "Atlas",
+      "Drakensberg"
+    ],
+    "answer": "Kilimanjaro"
+  },
+  {
+    "id": 211,
+    "level": 7,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Penemu vaksin rabies? (versi-3)",
+    "options": [
+      "Pasteur",
+      "Newton",
+      "Tesla",
+      "Curie"
+    ],
+    "answer": "Pasteur"
+  },
+  {
+    "id": 63,
+    "level": 7,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Negara terkecil di dunia? (versi-7)",
+    "options": [
+      "Vatikan",
+      "Monako",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "answer": "Vatikan"
+  },
+  {
+    "id": 170,
+    "level": 7,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Organ terbesar tubuh manusia? (versi-2)",
+    "options": [
+      "Kulit",
+      "Jantung",
+      "Paru-paru",
+      "Lambung"
+    ],
+    "answer": "Kulit"
+  },
+  {
+    "id": 53,
+    "level": 7,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Ibukota Kazakhstan? (versi-5)",
+    "options": [
+      "Astana",
+      "Almaty",
+      "Tashkent",
+      "Bishkek"
+    ],
+    "answer": "Astana"
+  },
+  {
+    "id": 46,
+    "level": 7,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Benua terkecil? (versi-6)",
+    "options": [
+      "Australia",
+      "Eropa",
+      "Antartika",
+      "Amerika Selatan"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 1,
+    "level": 7,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Ibukota Indonesia? (versi-1)",
+    "options": [
+      "Jakarta",
+      "Surabaya",
+      "Bandung",
+      "Medan"
+    ],
+    "answer": "Jakarta"
+  },
+  {
+    "id": 172,
+    "level": 7,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Organ terbesar tubuh manusia? (versi-4)",
+    "options": [
+      "Kulit",
+      "Jantung",
+      "Paru-paru",
+      "Lambung"
+    ],
+    "answer": "Kulit"
+  },
+  {
+    "id": 40,
+    "level": 7,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Sungai terpanjang di dunia? (versi-8)",
+    "options": [
+      "Nil",
+      "Amazon",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "answer": "Nil"
+  },
+  {
+    "id": 114,
+    "level": 7,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "Akar kuadrat dari 64? (versi-2)",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 61,
+    "level": 7,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Negara terkecil di dunia? (versi-5)",
+    "options": [
+      "Vatikan",
+      "Monako",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "answer": "Vatikan"
+  },
+  {
+    "id": 8,
+    "level": 7,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Ibukota Indonesia? (versi-8)",
+    "options": [
+      "Jakarta",
+      "Surabaya",
+      "Bandung",
+      "Medan"
+    ],
+    "answer": "Jakarta"
+  },
+  {
+    "id": 45,
+    "level": 7,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Benua terkecil? (versi-5)",
+    "options": [
+      "Australia",
+      "Eropa",
+      "Antartika",
+      "Amerika Selatan"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 214,
+    "level": 7,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Penemu vaksin rabies? (versi-6)",
+    "options": [
+      "Pasteur",
+      "Newton",
+      "Tesla",
+      "Curie"
+    ],
+    "answer": "Pasteur"
+  },
+  {
+    "id": 195,
+    "level": 7,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Simbol kimia emas? (versi-3)",
+    "options": [
+      "Au",
+      "Ag",
+      "Fe",
+      "Cu"
+    ],
+    "answer": "Au"
+  },
+  {
+    "id": 145,
+    "level": 7,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Organ pernapasan manusia? (versi-1)",
+    "options": [
+      "Paru-paru",
+      "Hati",
+      "Jantung",
+      "Ginjal"
+    ],
+    "answer": "Paru-paru"
+  },
+  {
+    "id": 191,
+    "level": 7,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Simbol kimia air? (versi-7)",
+    "options": [
+      "H2O",
+      "O2",
+      "CO2",
+      "HO"
+    ],
+    "answer": "H2O"
+  },
+  {
+    "id": 139,
+    "level": 7,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "7² - 6² = ? (versi-3)",
+    "options": [
+      "13",
+      "49",
+      "1",
+      "85"
+    ],
+    "answer": "13"
+  },
+  {
+    "id": 184,
+    "level": 7,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Zat yang dibutuhkan tumbuhan untuk fotosintesis? (versi-8)",
+    "options": [
+      "Cahaya",
+      "Air",
+      "Karbon dioksida",
+      "Semua benar"
+    ],
+    "answer": "Semua benar"
+  },
+  {
+    "id": 164,
+    "level": 7,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Air membeku pada suhu? (versi-4)",
+    "options": [
+      "0°C",
+      "10°C",
+      "100°C",
+      "50°C"
+    ],
+    "answer": "0°C"
+  },
+  {
+    "id": 110,
+    "level": 7,
+    "difficulty": "sedang",
+    "category": "Matematika",
+    "question": "Hasil dari 3² = ? (versi-6)",
+    "options": [
+      "6",
+      "9",
+      "12",
+      "18"
+    ],
+    "answer": "9"
+  },
+  {
+    "id": 82,
+    "level": 7,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "7 - 4 = ? (versi-2)",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 70,
+    "level": 7,
+    "difficulty": "sulit",
+    "category": "Geografi",
+    "question": "Gunung tertinggi di Afrika? (versi-6)",
+    "options": [
+      "Kilimanjaro",
+      "Kenya",
+      "Atlas",
+      "Drakensberg"
+    ],
+    "answer": "Kilimanjaro"
+  },
+  {
+    "id": 20,
+    "level": 7,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Gunung tertinggi di Indonesia? (versi-4)",
+    "options": [
+      "Puncak Jaya",
+      "Semeru",
+      "Rinjani",
+      "Kerinci"
+    ],
+    "answer": "Puncak Jaya"
+  },
+  {
+    "id": 129,
+    "level": 7,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "Nilai dari 2³ = ? (versi-1)",
+    "options": [
+      "8",
+      "6",
+      "9",
+      "4"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 192,
+    "level": 7,
+    "difficulty": "sedang",
+    "category": "Sains",
+    "question": "Simbol kimia air? (versi-8)",
+    "options": [
+      "H2O",
+      "O2",
+      "CO2",
+      "HO"
+    ],
+    "answer": "H2O"
+  },
+  {
+    "id": 204,
+    "level": 7,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Teori terkenal Einstein? (versi-4)",
+    "options": [
+      "Relativitas",
+      "Kuantum",
+      "Gravitasi",
+      "Evolusi"
+    ],
+    "answer": "Relativitas"
+  },
+  {
+    "id": 121,
+    "level": 7,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "Hasil dari 5 × (2 + 3) = ? (versi-1)",
+    "options": [
+      "25",
+      "20",
+      "15",
+      "30"
+    ],
+    "answer": "25"
+  },
+  {
+    "id": 209,
+    "level": 7,
+    "difficulty": "sulit",
+    "category": "Sains",
+    "question": "Penemu vaksin rabies? (versi-1)",
+    "options": [
+      "Pasteur",
+      "Newton",
+      "Tesla",
+      "Curie"
+    ],
+    "answer": "Pasteur"
+  },
+  {
+    "id": 168,
+    "level": 7,
+    "difficulty": "mudah",
+    "category": "Sains",
+    "question": "Air membeku pada suhu? (versi-8)",
+    "options": [
+      "0°C",
+      "10°C",
+      "100°C",
+      "50°C"
+    ],
+    "answer": "0°C"
+  },
+  {
+    "id": 78,
+    "level": 8,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "2 + 3 = ? (versi-6)",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 26,
+    "level": 8,
+    "difficulty": "sedang",
+    "category": "Geografi",
+    "question": "Ibukota Australia? (versi-2)",
+    "options": [
+      "Canberra",
+      "Sydney",
+      "Melbourne",
+      "Perth"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "id": 13,
+    "level": 8,
+    "difficulty": "mudah",
+    "category": "Geografi",
+    "question": "Pulau terbesar di Indonesia? (versi-5)",
+    "options": [
+      "Kalimantan",
+      "Jawa",
+      "Sumatera",
+      "Sulawesi"
+    ],
+    "answer": "Kalimantan"
+  },
+  {
+    "id": 143,
+    "level": 8,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "7² - 6² = ? (versi-7)",
+    "options": [
+      "13",
+      "49",
+      "1",
+      "85"
+    ],
+    "answer": "13"
+  },
+  {
+    "id": 86,
+    "level": 8,
+    "difficulty": "mudah",
+    "category": "Matematika",
+    "question": "7 - 4 = ? (versi-6)",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 128,
+    "level": 8,
+    "difficulty": "sulit",
+    "category": "Matematika",
+    "question": "Hasil dari 5 × (2 + 3) = ? (versi-8)",
+    "options": [
+      "25",
+      "20",
+      "15",
+      "30"
+    ],
+    "answer": "25"
+  }
+]
