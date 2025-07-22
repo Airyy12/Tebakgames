@@ -1,10 +1,11 @@
-import openai
 import os
+from openai import OpenAI
 import exp_manager
 from dotenv import load_dotenv
 
 load_dotenv()
-openai.api_key = os.getenv("OPENAI_API_KEY")
+
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 class QuizSession:
     def __init__(self, exp_module, question_manager):
@@ -31,11 +32,13 @@ Jawaban benar: {question['answer']}
 
 Berikan penjelasan singkat (1-2 paragraf) kenapa jawaban pengguna salah dan kenapa jawaban benar lebih tepat.
 """
-        response = openai.ChatCompletion.create(
+        response = client.chat.completions.create(
             model="gpt-3.5-turbo",
-            messages=[{"role": "user", "content": prompt}],
+            messages=[
+                {"role": "user", "content": prompt}
+            ],
             temperature=0.7,
-            max_tokens=250
+            max_tokens=250,
         )
         return response.choices[0].message.content.strip()
 
