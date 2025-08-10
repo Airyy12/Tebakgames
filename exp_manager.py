@@ -37,13 +37,14 @@ def get_wrong_answer_penalty(level):
         return -20
 
 # Total EXP dibutuhkan untuk naik level
-LEVEL_THRESHOLDS = {
-    1: 0, 2: 50, 3: 120, 4: 210, 5: 320,
-    6: 450, 7: 600, 8: 770, 9: 960, 10: 1170,
-    11: 1400, 12: 1650, 13: 1920, 14: 2210, 15: 2520,
-    16: 2850, 17: 3200, 18: 3570, 19: 3960, 20: 4370,
-    21: 4800, 22: 5250, 23: 5720, 24: 6210, 25: 6720
-}
+LEVEL_THRESHOLDS = {}
+max_level = 100
+exp = 0
+LEVEL_THRESHOLDS[1] = exp
+for lvl in range(2, max_level + 1):
+    # Rumus: threshold naik makin tinggi setiap level
+    exp += 50 + (lvl * 20)
+    LEVEL_THRESHOLDS[lvl] = exp
 
 def check_level_up(current_exp, current_level):
     next_level = current_level
