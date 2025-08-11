@@ -49,3 +49,17 @@ def update_user_progress(username, level, exp, streak):
         users[username]["exp"] = exp
         users[username]["streak"] = streak
         save_users(users)
+
+def get_user_badges(username):
+    user = get_user_progress(username)
+    return user.get("badges", [])
+
+def add_user_badge(username, badge):
+    user = get_user_progress(username)
+    badges = set(user.get("badges", []))
+    badges.add(badge)
+    user["badges"] = list(badges)
+    users = load_users()
+    if username in users:
+        users[username]["badges"] = user["badges"]
+        save_users(users)
