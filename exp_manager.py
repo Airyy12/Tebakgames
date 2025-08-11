@@ -1,10 +1,16 @@
 # exp_manager.py
 
 def get_base_exp(difficulty):
+    # Update sesuai instruksi
     return {
+        "ekstra mudah": 8,
+        "sangat mudah": 12,
         "mudah": 15,
         "sedang": 25,
-        "sulit": 40
+        "sulit": 40,
+        "sangat sulit": 55,
+        "legendaris": 80,
+        "mytic": 120
     }.get(difficulty.lower(), 0)
 
 def get_action_bonus(is_fast=False, is_open=False, streak=False, used_ai=False):
@@ -25,16 +31,33 @@ def get_total_exp(difficulty, is_fast=False, is_open=False, streak=False, used_a
     return max(base + bonus, 0)  # EXP tidak boleh negatif
 
 def get_wrong_answer_penalty(level):
+    # Update sesuai instruksi
     if level <= 5:
         return 0
     elif level <= 10:
         return -5
-    elif level <= 15:
-        return -10
     elif level <= 20:
-        return -15
-    else:
+        return -10
+    elif level <= 40:
         return -20
+    elif level <= 60:
+        return -30
+    elif level <= 80:
+        return -50
+    elif level <= 100:
+        return -80
+    else:
+        return -80
+
+def get_extra_wrong_streak_penalty(level, wrong_streak):
+    # Penalti tambahan jika salah 3x berturut-turut di level 50+
+    if level >= 50 and wrong_streak >= 3:
+        return -100
+    return 0
+
+def reset_streak_on_wrong(streak):
+    # Reset streak jika salah
+    return 0
 
 # Total EXP dibutuhkan untuk naik level
 LEVEL_THRESHOLDS = {}
@@ -52,3 +75,19 @@ def check_level_up(current_exp, current_level):
            current_exp >= LEVEL_THRESHOLDS[next_level + 1]):
         next_level += 1
     return next_level
+
+def get_timer_seconds(difficulty, level):
+    # Waktu dasar per difficulty
+    base_times = {
+        "ekstra mudah": 40,
+        "sangat mudah": 35,
+        "mudah": 30,
+        "sedang": 25,
+        "sulit": 20,
+        "sangat sulit": 20,
+        "legendaris": 20,
+        "mytic": 20
+    }
+    waktu_dasar = base_times.get(difficulty.lower(), 20)
+    waktu_timer = max(waktu_dasar - (level // 2), 8)
+    return waktu_timer
