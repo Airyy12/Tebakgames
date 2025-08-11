@@ -12,6 +12,7 @@ class QuizSession:
         self.current_level = 1
         self.current_exp = 0
         self.current_streak = 0
+        self.wrong_streak = 0  # Tambahan: tracking salah berturut-turut
         self.last_result = None
 
     def get_next_question(self):
@@ -34,15 +35,24 @@ class QuizSession:
 
         if is_correct:
             self.current_streak += 1
+            self.wrong_streak = 0  # Reset wrong streak jika benar
             exp_change = self.exp_module.get_total_exp(
                 difficulty=difficulty,
                 streak=(self.current_streak >= 3)
             )
             explanation = "Jawaban Anda benar!"
         else:
-            self.current_streak = 0
+            self.current_streak = self.exp_module.reset_streak_on_wrong(self.current_streak)
+            self.wrong_streak += 1
             exp_change = self.exp_module.get_wrong_answer_penalty(self.current_level)
-            explanation = ""  # Tidak ada penjelasan AI
+            # Tambahan penalti salah berturut-turut di level tinggi
+            extra_penalty = self.exp_module.get_extra_wrong_streak_penalty(self.current_level, self.wrong_streak)
+            exp_change += extra_penalty
+            if extra_penalty < 0:
+                explanation = "⚠️ Anda salah 3x berturut-turut di level tinggi! Penalti ekstra diberikan dan streak di-reset."
+                self.wrong_streak = 0  # Reset wrong streak setelah penalti ekstra
+            else:
+                explanation = ""
 
         self.current_exp += exp_change
         self.current_exp = max(self.current_exp, 0)
