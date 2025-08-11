@@ -1,5 +1,6 @@
 import json
 import random
+from exp_manager import get_timer_seconds
 
 class QuestionManager:
     def __init__(self, filepath: str = "questions.json"):
@@ -34,3 +35,9 @@ class QuestionManager:
             if q["id"] == qid:
                 return q
         raise ValueError(f"Soal dengan ID {qid} tidak ditemukan.")
+
+    def get_timer_for_question(self, question, user_level):
+        """Menghitung timer detik untuk soal dan level user"""
+        difficulty = question.get("difficulty", "mudah")
+        level = user_level
+        return get_timer_seconds(difficulty, level)
