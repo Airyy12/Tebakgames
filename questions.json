@@ -14,43 +14,43 @@
     "difficulty": "sangat mudah"
   },
   {
-    "category": "Geografi",
-    "question": "Warna langit saat cerah?",
+    "category": "Sains",
+    "question": "Planet terdekat dengan Matahari?",
     "options": [
-      "Biru",
-      "Hijau",
-      "Merah",
-      "Kuning"
+      "Merkurius",
+      "Venus",
+      "Bumi",
+      "Mars"
     ],
-    "answer": "Biru",
+    "answer": "Merkurius",
     "id": 2,
     "level": 1,
     "difficulty": "sangat mudah"
   },
   {
-    "category": "Geografi",
-    "question": "Laut di sebelah utara Jawa?",
+    "category": "Matematika",
+    "question": "Berapakah hasil 15 + 27?",
     "options": [
-      "Laut Jawa",
-      "Laut Cina Selatan",
-      "Laut Banda",
-      "Laut Flores"
+      "40",
+      "42",
+      "41",
+      "43"
     ],
-    "answer": "Laut Jawa",
+    "answer": "42",
     "id": 3,
     "level": 1,
     "difficulty": "sangat mudah"
   },
   {
-    "category": "Geografi",
-    "question": "Laut di sebelah utara Jawa?",
+    "category": "Sains",
+    "question": "Proses pembentukan awan disebut?",
     "options": [
-      "Laut Jawa",
-      "Laut Cina Selatan",
-      "Laut Banda",
-      "Laut Flores"
+      "Evaporasi",
+      "Kondensasi",
+      "Presipitasi",
+      "Sublimasi"
     ],
-    "answer": "Laut Jawa",
+    "answer": "Kondensasi",
     "id": 4,
     "level": 1,
     "difficulty": "sangat mudah"
@@ -98,29 +98,29 @@
     "difficulty": "ekstra mudah"
   },
   {
-    "category": "Geografi",
-    "question": "Ibukota Indonesia?",
+    "category": "Sains",
+    "question": "Zat yang menyusun sebagian besar matahari?",
     "options": [
-      "Jakarta",
-      "Bandung",
-      "Surabaya",
-      "Medan"
+      "Hidrogen",
+      "Helium",
+      "Oksigen",
+      "Nitrogen"
     ],
-    "answer": "Jakarta",
+    "answer": "Hidrogen",
     "id": 8,
     "level": 2,
     "difficulty": "ekstra mudah"
   },
   {
-    "category": "Sains",
-    "question": "Planet ke-3 dari Matahari?",
+    "category": "Geografi",
+    "question": "Negara kepulauan terbesar di dunia?",
     "options": [
-      "Merkurius",
-      "Venus",
-      "Bumi",
-      "Mars"
+      "Indonesia",
+      "Filipina",
+      "Jepang",
+      "Maladewa"
     ],
-    "answer": "Bumi",
+    "answer": "Indonesia",
     "id": 9,
     "level": 2,
     "difficulty": "ekstra mudah"
@@ -141,14 +141,14 @@
   },
   {
     "category": "Sains",
-    "question": "Planet ke-3 dari Matahari?",
+    "question": "Organ manusia yang menyaring darah?",
     "options": [
-      "Merkurius",
-      "Venus",
-      "Bumi",
-      "Mars"
+      "Jantung",
+      "Ginjal",
+      "Paru-paru",
+      "Liver"
     ],
-    "answer": "Bumi",
+    "answer": "Ginjal",
     "id": 11,
     "level": 3,
     "difficulty": "ekstra mudah"
@@ -224,15 +224,15 @@
     "difficulty": "ekstra mudah"
   },
   {
-    "category": "Geografi",
-    "question": "Ibukota Indonesia?",
+    "category": "Matematika",
+    "question": "Hasil dari 8 * 12 adalah?",
     "options": [
-      "Jakarta",
-      "Bandung",
-      "Surabaya",
-      "Medan"
+      "96",
+      "88",
+      "94",
+      "100"
     ],
-    "answer": "Jakarta",
+    "answer": "96",
     "id": 17,
     "level": 4,
     "difficulty": "sangat mudah"
@@ -266,29 +266,29 @@
     "difficulty": "ekstra mudah"
   },
   {
-    "category": "Geografi",
-    "question": "Ibukota Indonesia?",
+    "category": "Matematika",
+    "question": "Jika 5x = 45, berapakah nilai x?",
     "options": [
-      "Jakarta",
-      "Bandung",
-      "Surabaya",
-      "Medan"
+      "8",
+      "9",
+      "10",
+      "7"
     ],
-    "answer": "Jakarta",
+    "answer": "9",
     "id": 20,
     "level": 4,
     "difficulty": "sangat mudah"
   },
   {
-    "category": "Sains",
-    "question": "Planet ke-3 dari Matahari?",
+    "category": "Geografi",
+    "question": "Ibukota Australia?",
     "options": [
-      "Merkurius",
-      "Venus",
-      "Bumi",
-      "Mars"
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
     ],
-    "answer": "Bumi",
+    "answer": "Canberra",
     "id": 21,
     "level": 5,
     "difficulty": "ekstra mudah"
@@ -336,15 +336,15 @@
     "difficulty": "sangat mudah"
   },
   {
-    "category": "Geografi",
-    "question": "Laut di sebelah utara Jawa?",
+    "category": "Matematika",
+    "question": "Berapakah akar kuadrat dari 81?",
     "options": [
-      "Laut Jawa",
-      "Laut Cina Selatan",
-      "Laut Banda",
-      "Laut Flores"
+      "7",
+      "8",
+      "9",
+      "10"
     ],
-    "answer": "Laut Jawa",
+    "answer": "9",
     "id": 25,
     "level": 5,
     "difficulty": "sangat mudah"
@@ -365,14 +365,14 @@
   },
   {
     "category": "Geografi",
-    "question": "Warna langit saat cerah?",
+    "question": "Samudra yang mengelilingi Antartika?",
     "options": [
-      "Biru",
-      "Hijau",
-      "Merah",
-      "Kuning"
+      "Pasifik",
+      "Atlantik",
+      "Hindia",
+      "Samudra Selatan"
     ],
-    "answer": "Biru",
+    "answer": "Samudra Selatan",
     "id": 27,
     "level": 6,
     "difficulty": "sangat mudah"
@@ -393,14 +393,14 @@
   },
   {
     "category": "Geografi",
-    "question": "Ibukota Indonesia?",
+    "question": "Gunung berapi tertinggi di dunia?",
     "options": [
-      "Jakarta",
-      "Bandung",
-      "Surabaya",
-      "Medan"
+      "Mauna Kea",
+      "Kilimanjaro",
+      "Fuji",
+      "Cotopaxi"
     ],
-    "answer": "Jakarta",
+    "answer": "Mauna Kea",
     "id": 29,
     "level": 6,
     "difficulty": "ekstra mudah"
